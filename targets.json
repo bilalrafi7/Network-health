@@ -1,0 +1,5 @@
+[
+  {"name":"Example Website", "type":"http", "url":"https://example.com"},
+  {"name":"Cloudflare Website", "type":"http", "url":"https://www.cloudflare.com"},
+  {"name":"Cloudflare DNS · TCP", "type":"tcp", "host":"1.1.1.1", "port":53}
+]
